@@ -27,7 +27,3 @@ AI Playground is an Android application built using Jetpack Compose that integra
 ## Permissions
 
 The app requires camera permissions to function. If not granted, it will request them upon startup.
-
----
-
-You can expand this further by adding setup instructions, screenshots, or details on the AI processing if needed!
